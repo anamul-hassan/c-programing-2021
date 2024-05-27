@@ -1,0 +1,7 @@
+First Employee Information.
+Employee name is: Anamul Hassan
+Employee salary is: 356262 US dollar
+
+Second Employee Information.
+Employee name is: Mehedi Hasan
+Employee salary is: 62626 US dollar
